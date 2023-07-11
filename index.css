@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Tea Cozy</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+  <body>
+      <div class="header">
+        <div class="title">
+          <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png" alt="Tea Cozy Logo">
+        </div>
+        <div class="navigation">
+          <a href="#">Mission</a>
+          <a href="#">Featured Tea</a>
+          <a href="#">Locations</a>
+        </div>
+      </div>
+      <div class="mission">
+        <div class="parent">
+        <div class="child"><h2>Our Mission</h2></div>
+        <div class="child"><h4>Handpicked, Artesanally Curated, Free range, Sustainable, Small Batch, Fairtrade, Organic Tea</h4></div>
+        </div>
+      </div>
+      <div class="month">
+        <div class="words">
+          <h2>Tea of the Month</h2>
+          <h4>Who's Steeping at The Tea Cozy?</h4>
+        </div>
+        <div class="images">
+        <div class="image"><img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-berryblitz.jpg"><figcaption>Fall Berry Blitz Tea</figcaption></div>
+        <div class="image"><img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg"><figcaption>Spiced Rum Tea</figcaption></div>
+        <div class="image"><img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-donut.jpg"><figcaption>Seasonal Donuts</figcaption></div>
+        <div class="image"><img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg"><figcaption>Myrtle Ave Tea</figcaption></div>
+        <div class="image"><img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg"><figcaption>Bedford Bizarre Tea</figcaption></div>
+      </div>
+      </div>
+      <div class="locations">
+        <h2 id="loca">Locations</h2>
+      <div class="locon">
+        <div class="loc">
+          <h4>Downtown</h4>
+          <p>348 West 4th Street</p>
+          <p>Suite 108</p>
+          <p>Portland, Maine</p>
+        </div>
+        <div class="loc">
+          <h4>East Bayside</h4>
+          <p>3433 Phishermans Avenue</p>
+          <p>(Northwest Corner)</p>
+          <p>Portland, Maine</p>
+        </div>
+        <div class="loc">
+          <h4>Oakdale</h4>
+          <p>515 Crescent Avenue</p>
+          <p>Second Floor</p>
+          <p>Portland, Maine</p>
+        </div>
+       </div>
+      </div>
+  </body>
+  <footer>
+    <div class="footer">
+      <h2>The Tea Cozy</h2>
+      <h5>contact@theteacozy.com</h5>
+      <h5>917-555-8904</h5>
+    </div>
+    <div class="copyright">
+      <p>copyright The Tea Cozy 2017</p>
+    </div>
+  </footer>
+</html>
